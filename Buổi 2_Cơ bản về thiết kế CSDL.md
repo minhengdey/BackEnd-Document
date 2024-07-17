@@ -1,5 +1,29 @@
 # BUỔI 2: CƠ BẢN VỀ THIẾT KẾ CSDL
 
+- [BUỔI 2: CƠ BẢN VỀ THIẾT KẾ CSDL](#buổi-2-cơ-bản-về-thiết-kế-csdl)
+  - [I. Lý thuyết về thiết kế  CSDL.](#i-lý-thuyết-về-thiết-kế--csdl)
+    - [1. Khái niệm của thiết kế CSDL.](#1-khái-niệm-của-thiết-kế-csdl)
+    - [2. Lợi ích của thiết kế CSDL.](#2-lợi-ích-của-thiết-kế-csdl)
+    - [3. Thiết kế CSDL tốt.](#3-thiết-kế-csdl-tốt)
+    - [4. Các bước thực hiện thiết kế CSDL.](#4-các-bước-thực-hiện-thiết-kế-csdl)
+  - [II. Lược đồ quan hệ E-R.](#ii-lược-đồ-quan-hệ-e-r)
+    - [Lược đồ E-R](#lược-đồ-e-r)
+    - [Các kiểu liên kết trong lược đồ E-R.](#các-kiểu-liên-kết-trong-lược-đồ-e-r)
+    - [Thuộc tính khóa.](#thuộc-tính-khóa)
+  - [III. Mô hình dữ liệu quan hệ.](#iii-mô-hình-dữ-liệu-quan-hệ)
+    - [1. Khái niệm.](#1-khái-niệm)
+    - [2. Quy ước ký hiệu.](#2-quy-ước-ký-hiệu)
+    - [3. Khái niệm khóa trên các hệ quản trị CSDL.](#3-khái-niệm-khóa-trên-các-hệ-quản-trị-csdl)
+      - [Khoá chính (Primary Key)](#khoá-chính-primary-key)
+      - [Khoá ngoại (Foreign Key)](#khoá-ngoại-foreign-key)
+  - [IV. Chuẩn hóa dữ liệu: 1NF, 2NF, 3NF.](#iv-chuẩn-hóa-dữ-liệu-1nf-2nf-3nf)
+    - [1. Chuẩn hóa dữ liệu là gì?](#1-chuẩn-hóa-dữ-liệu-là-gì)
+    - [2. Các dạng chuẩn hóa.](#2-các-dạng-chuẩn-hóa)
+    - [1NF (First Normal Form)](#1nf-first-normal-form)
+    - [2NF (Second Normal Form)](#2nf-second-normal-form)
+    - [3NF (Third Normal Form)](#3nf-third-normal-form)
+
+
 ## I. Lý thuyết về thiết kế  CSDL.
 
 ### 1. Khái niệm của thiết kế CSDL.
